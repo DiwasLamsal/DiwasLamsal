@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋 It's Diwas
-#### Welcome to my GitHub 
+#### Hi there 👋 Welcome to my GitHub 
 
 <a href = "https://github.com/diwaslamsal/">GitHub Homepage</a>
 
