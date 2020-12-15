@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi there 👋 Welcome to my GitHub 
+<h1 align = "right"> Hi there 👋 Welcome to my GitHub </h1>
 
 <a href = "https://github.com/diwaslamsal/">GitHub Homepage</a>
 
