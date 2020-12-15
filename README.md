@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align = "center"> Hi there 👋 Welcome to my GitHub </h2>
+<h2 align = "right"> Hi there 👋 Welcome to my GitHub </h2>
 
-<a href = "https://github.com/diwaslamsal/">GitHub Homepage</a>
+<div align = "right"><a href = "https://github.com/diwaslamsal/">GitHub Homepage</a></div>
 
 <hr>
 Year III Projects, University of Northampton
