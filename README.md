@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align = "right"> Welcome to my GitHub </h2>
+<div align = "right"><font size = "5"> <b>Welcome to my GitHub</b> </font></div>
 <div align = "right"><a href = "https://github.com/diwaslamsal/">GitHub Homepage</a></div>
 
 <hr>
