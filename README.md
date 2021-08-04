@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <hr>
 Year III Projects, University of Northampton
 
-<a href = "https://diwaslamsal.github.io/MATLABSoundAnnotator/">MATLAB Sound Annotator (Temporarily Removed) </a> | <a href = "https://diwaslamsal.github.io/ClaybrookZoo/"> Claybrook Zoo  </a> | <a href = "https://diwaslamsal.github.io/DatabaseAssignments"> Database Assignments (Temporarily Removed) </a> | <a href = "https://diwaslamsal.github.io/OtherHomeworks"> Other Homeworks </a>
+<a href = "https://diwaslamsal.github.io/MATLABSoundAnnotator/">MATLAB Sound Annotator </a> | <a href = "https://diwaslamsal.github.io/ClaybrookZoo/"> Claybrook Zoo  </a> | <a href = "https://diwaslamsal.github.io/DatabaseAssignments"> Database Assignments </a> | <a href = "https://diwaslamsal.github.io/OtherHomeworks"> Other Homeworks </a>
 
 <hr>
 
